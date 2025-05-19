@@ -1,4 +1,4 @@
-name: Playwright Tests
+hname: Playwright Tests
 on:
   push:
     branches: [ master, setup-redesign ]
